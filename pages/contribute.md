@@ -16,7 +16,7 @@ If the typical crochet/knitting techniques are difficult for you, ask a villager
 
 ### Create a contribution
 
-Each contribution to the blanket should be a 15cm x 15cm (6in x 6in) crochet or knit* square. Try to get as close to 15cm as possible without going over - dimensions between 14cm and 15.5cm will be accepted. It is better for the square to be too small than too big.
+Each contribution to the blanket should be a 15cm x 15cm (6in x 6in) crochet or knit* square. Try to get as close to 15cm as possible without going over - dimensions between 14cm and 15.5cm are ideal. It is better for the square to be too small than too big (because you can always add an extra border to a smaller square if needed).
 
 The design and colour(s) of the square are up to you! It can be as simple or as complicated as you like, as long as it fits the dimensions. You can also use techniques like surface crochet and embroidery to enhance your square. Check out [Patterns](patterns.md) for inspiration, or search the internet for more ideas.
 
