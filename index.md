@@ -4,6 +4,8 @@
 
 [Contribute to the Blanket](pages/contribute.md)
 
+[Follow on Mastodon](https://mastodon.me.uk/@emfblanket)
+
 ## The Blanket
 
-Doesn't exist yet.
+Doesn't exist yet - stay tuned...
