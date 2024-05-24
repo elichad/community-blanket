@@ -16,7 +16,7 @@
 
 **Foundation ring.** Work 4 ch and join with a ss to the first ch, forming a ring.
 
-**Round 1.** 
+**Round 1.**
 Work 3 ch, then 2 dc in the ring, then 2 more ch; *then 3 dc in the ring and 2 ch. Repeat from * 2 more times. Join the round with a ss to the top of the first chain. Fasten off and optionally change colour.
 
 **Round 2.** Join new yarn in any 2-ch space. Ch 3, work 1 dc, ch 2, work 2 dc in that same space. *1 dc in each of next 3 st, then work 2 dc, ch 2, work 2 dc all in the next 2-ch space. Repeat from * 2 more times. 1 dc in each of next 3 st, then join the round with a ss to the top of the first chain. Fasten off and optionally change colour.
@@ -29,7 +29,7 @@ Work 3 ch, then 2 dc in the ring, then 2 more ch; *then 3 dc in the ring and 2 c
 
 ### Modifications
 
-* To remove the corner gaps, instead of (ch 2) for the corners, use (1 dc, 1 tr, 1 dc). tr = triple crochet, formed by wrapping the yarn around the hook twice instead of once (compared to a dc) at the start of the stitch.
+* To remove the corner gaps, instead of (ch 2) for the corners, use (1 dc, 1 tr, 1 dc). tr = triple crochet, formed in the same way as the double crochet but wrapping the yarn around the hook twice instead of once (compared to a dc) at the start of the stitch, and then pulling yarn through two loops at a time like normal.
 
 ## Adapt for DK yarn (4.0mm hook)
 
