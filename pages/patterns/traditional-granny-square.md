@@ -8,6 +8,8 @@
 
 ## Pattern
 
+This pattern uses [US stitch terminology](https://easycrochet.com/uk-to-us-crochet-terms/) (the same as the EMF workshop teaches).
+
 **Stitch Key:**
 * ch: chain stitch
 * ss: slip stitch
