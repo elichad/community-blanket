@@ -1,4 +1,28 @@
-# Slip Knot, Chain Stitch, and Slip Stitch
+# Stitch Reference
+
+## Holding Hook
+
+### Option 1 - pencil hold
+![](../assets/images/hold_pencil.jpg)
+
+### Option 2 - knife hold
+![](../assets/images/hold_knife.jpg)
+
+### Option 3
+
+Hold in whatever way is most comfortable for you!
+
+## Tensioning Yarn
+
+### Option 1
+![](../assets/images/tension_1.jpg)
+
+### Option 2
+![](../assets/images/tension_2.jpg)
+
+### Option 3
+
+Wrap the yarn in whatever way works for you! As long as you feel that you have good control of your yarn as you work your stitches, anything goes.
 
 ## Slip Knot
 
