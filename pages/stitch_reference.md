@@ -12,6 +12,8 @@
 
 Hold in whatever way is most comfortable for you!
 
+<div style="break-after:page"></div>
+
 ## Tensioning Yarn
 
 ### Option 1
@@ -24,23 +26,33 @@ Hold in whatever way is most comfortable for you!
 
 Wrap the yarn in whatever way works for you! As long as you feel that you have good control of your yarn as you work your stitches, anything goes.
 
+<div style="break-after:page"></div>
+
 ## Slip Knot
 
 ![](../assets/images/slip_knot.jpg)
+
+<div style="break-after:page"></div>
 
 ## Chain Stitch
 
 ![](../assets/images/chain.webp)
 
+<div style="break-after:page"></div>
+
 ## Slip Stitch
 
 ![](../assets/images/slip_stitch.webp)
+
+<div style="break-after:page"></div>
 
 ## Single Crochet (US) / Double Crochet (UK)
 
 Images from Sarah Maker
 
 ![](../assets/images/single_crochet.jpg)
+
+<div style="break-after:page"></div>
 
 ## Double Crochet (US) / Treble Crochet (UK)
 
@@ -49,9 +61,13 @@ Images from Sarah Maker
 ![](../assets/images/double_crochet_1.webp)
 ![](../assets/images/double_crochet_2.webp)
 
+<div style="break-after:page"></div>
+
 ## Changing Colour
 
 ![](../assets/images/changing_colour.jpg)
+
+<div style="break-after:page"></div>
 
 ## Whip Stitch (for joining squares)
 
