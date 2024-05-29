@@ -26,7 +26,7 @@ You should use a yarn between DK (4mm) and chunky (6mm) weight. Any fibre is acc
 
 ### Add your contribution to the blanket
 
-Find [Eli](https://wiki.emfcamp.org/2024/wiki/User:Elichad) (the blanket's owner) and let them know about your contribution, so it can be catalogued along with your name (optional) and any notes you'd like to add about it (e.g. why you chose your design, or what the colours represent). 
+Find [Eli](https://wiki.emfcamp.org/2024/wiki/User:Elichad) (the blanket's owner) and let them know about your contribution, so it can be catalogued along with your name (optional) and any notes you'd like to add about it (e.g. why you chose your design, or what the colours represent).
 
 Eli will show you where to join your square to the blanket. Use the [whip stitch](https://easycrochet.com/whip-stitch-crochet-technique/).
 
@@ -41,6 +41,12 @@ In particular, if you are an experienced crocheter/knitter, you can help create 
 ### Share it online!
 
 Feel free to share pictures of your contribution and/or the whole blanket online and encourage others to visit the village!
+
+## FAQ
+
+### Can I make multiple squares?
+
+Yes!
 
 ## Extra help
 

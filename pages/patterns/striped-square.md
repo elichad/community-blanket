@@ -1,5 +1,7 @@
 # Striped Square
 
+![Red and yellow striped square](../../assets/images/red_yellow_striped_square.jpg)
+
 **Level:** Beginner
 
 **Yarn weight:** Chunky (6.0mm hook) or [adapt for DK yarn (4.0mm hook)](#adapt-for-dk-yarn-40mm-hook)

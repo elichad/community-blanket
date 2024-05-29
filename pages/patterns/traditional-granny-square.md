@@ -1,5 +1,7 @@
 # Traditional Granny Square
 
+![Red and yellow traditional granny square](../../assets/images/red_yellow_traditional_granny_square.jpg)
+
 **Level:** Beginner
 
 **Yarn weight:** Chunky (6.0mm hook) or [adapt for DK yarn (4.0mm hook)](#adapt-for-dk-yarn-40mm-hook)

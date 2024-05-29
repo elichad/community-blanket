@@ -1,5 +1,7 @@
 # Solid-Sided Granny Square
 
+![Red and yellow solid sided square](../../assets/images/red_yellow_solid_granny_square.jpg)
+
 **Level:** Beginner
 
 **Yarn weight:** Chunky (6.0mm hook) or [adapt for DK yarn (4.0mm hook)](#adapt-for-dk-yarn-40mm-hook)
