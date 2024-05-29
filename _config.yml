@@ -1,9 +1,0 @@
-theme: minima
-
-minima:
-  social_links:
-    - { platform: mastodon, user_url: "https://mastodon.me.uk/@emfblanket" }
-    - {
-        platform: github,
-        user_url: "https://github.com/elichad/community-blanket",
-      }
