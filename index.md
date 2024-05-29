@@ -9,3 +9,9 @@
 ## The Blanket
 
 Doesn't exist yet - stay tuned...
+
+## Resources
+
+[Patterns](pages/patterns.md)
+
+[Stitch Reference](pages/stitch_reference.md)
