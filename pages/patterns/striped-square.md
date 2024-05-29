@@ -28,9 +28,7 @@ This pattern uses [US stitch terminology](https://easycrochet.com/uk-to-us-croch
 
 **Finishing** Fasten off and weave in ends.
 
-![Completed square in solid red color](../../assets/images/striped_square.jpg)
-
-**Modifications**
+### Modifications
 * Incorporate one or more rows of single crochet to create a slightly different texture. Single crochet is especially useful for getting the square to be the right height.
 * Change colour at the end of a row to create a stripe. To create equal-width stripes, change after a consistent and ideally even number of rows (e.g. every 4 rows). This pattern is great for making pride flags and country flags!
 * Add an extra design by sewing or embroidering on top of the finished square.
