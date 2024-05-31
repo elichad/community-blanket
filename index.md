@@ -1,6 +1,8 @@
 # EMF Community Blanket Documentation
 
-**[Contribute to the Blanket](pages/contribute.md)**
+We're building a blanket out of crochet and knit squares created by EMF attendees. Come and make a contribution! Beginners welcome.
+
+**[How to Contribute to the Blanket](pages/contribute.md)**
 
 [View the Blanket online](https://emf-community-blanket-32b26b9ba91e.herokuapp.com/blankets/2/)
 
