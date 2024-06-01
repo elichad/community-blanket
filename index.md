@@ -10,6 +10,8 @@ We're building a blanket out of crochet and knit squares created by EMF attendee
 
 [Follow on Mastodon](https://mastodon.me.uk/@emfblanket)
 
+![Blanket maker table with assorted yarn and a few finished squares](assets/images/IMG_20240531_192929435.jpg)
+
 ## Location
 
 The blanket lives in [Tekhnē-cal Village](https://wiki.emfcamp.org/2024/wiki/Tekhn%C4%93-cal_Village) (northwest of Stage A, [see on map](https://map.emfcamp.org/#17/52.040506/-2.378641)). There's space and yarn to make contributions there!
