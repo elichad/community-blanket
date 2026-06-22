@@ -1,7 +1,7 @@
 title: EMF Community Blanket
 description: A crochet/knit blanket created by attendees of Electromagnetic Field 2024.
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 url: https://elichad.github.io/community-blanket/
 aux_links:
   GitHub: https://github.com/elichad/community-blanket/
