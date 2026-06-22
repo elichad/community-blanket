@@ -1,3 +1,7 @@
+---
+title: Contribute to the Blanket
+---
+
 # Contribute to the Blanket
 
 ## Who can contribute?

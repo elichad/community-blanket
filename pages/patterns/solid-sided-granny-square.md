@@ -1,3 +1,7 @@
+---
+title: Solid-Sided Granny Square
+---
+
 # Solid-Sided Granny Square
 
 ![Red and yellow solid sided square](../../assets/images/red_yellow_solid_granny_square.jpg)

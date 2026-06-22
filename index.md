@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # EMF Community Blanket Documentation
 
 We're building a blanket out of crochet and knit squares created by EMF attendees. Come and make a contribution! Beginners welcome.

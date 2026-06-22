@@ -1,3 +1,7 @@
+---
+title: Stitch Reference
+---
+
 # Stitch Reference
 
 ## Holding Hook

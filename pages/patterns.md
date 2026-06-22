@@ -1,3 +1,7 @@
+---
+title: Patterns
+---
+
 # Patterns
 
 Beginner-friendly patterns:

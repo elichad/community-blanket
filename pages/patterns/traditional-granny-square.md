@@ -1,3 +1,7 @@
+---
+title: Traditional Granny Square
+---
+
 # Traditional Granny Square
 
 ![Red and yellow traditional granny square](../../assets/images/red_yellow_traditional_granny_square.jpg)

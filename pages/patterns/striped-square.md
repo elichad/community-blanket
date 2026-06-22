@@ -1,3 +1,7 @@
+---
+title: Striped Square
+---
+
 # Striped Square
 
 ![Red and yellow striped square](../../assets/images/red_yellow_striped_square.jpg)
