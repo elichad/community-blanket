@@ -1,6 +1,7 @@
 ---
 title: "2024 Project: EMF Community Blanket"
 layout: home
+nav_order: 10
 ---
 
 # EMF Community Blanket Documentation

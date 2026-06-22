@@ -1,5 +1,6 @@
 ---
 title: Contribute to the Blanket
+nav_order: 2
 ---
 
 # Contribute to the Blanket

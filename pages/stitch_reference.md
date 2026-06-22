@@ -1,5 +1,6 @@
 ---
 title: Stitch Reference
+nav_order: 4
 ---
 
 # Stitch Reference
