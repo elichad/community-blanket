@@ -14,3 +14,23 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+  - scope:
+      path: "pages/2024/" # an empty string here means all files in the project
+    values:
+      layout: "2024"
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
