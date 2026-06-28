@@ -1,7 +1,6 @@
 ---
 title: Crochet Planet
 parent: Patterns
-grand_parent: "EMF Solar System"
 ---
 
 # Crochet Planet

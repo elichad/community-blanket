@@ -48,7 +48,7 @@ This pattern uses [US stitch terminology](https://easycrochet.com/uk-to-us-croch
 
 ### Modifications
 
-* If you're not a fan of all the gaps in this pattern, try the [Solid-Sided Granny Square](solid-sided-granny-square.md)
+* If you're not a fan of all the gaps in this pattern, try the [Solid-Sided Granny Square]({% link pages/2024/patterns/solid-sided-granny-square.md %})
 
 ## Adapt for DK yarn (4.0mm hook)
 

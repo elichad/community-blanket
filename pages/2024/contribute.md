@@ -23,7 +23,7 @@ If the typical crochet/knitting techniques are difficult for you, ask a villager
 
 Each contribution to the blanket should be a **15cm x 15cm** (6in x 6in) crochet or knit* square. Try to get as close to 15cm as possible without going over - dimensions between 14cm and 15.5cm are ideal. It is better for the square to be too small than too big (because you can always add an extra border to a smaller square if needed).
 
-The design and colour(s) of the square are up to you! It can be as simple or as complicated as you like, as long as it fits the dimensions. You can also use techniques like surface crochet and embroidery to enhance your square. Check out [Patterns](patterns.md) for inspiration, or search the internet for more ideas.
+The design and colour(s) of the square are up to you! It can be as simple or as complicated as you like, as long as it fits the dimensions. You can also use techniques like surface crochet and embroidery to enhance your square. Check out [Patterns]({% link pages/2024/patterns.md %}) for inspiration, or search the internet for more ideas.
 
 You should use a yarn between DK (4mm) and chunky (6mm) weight. Any fibre is acceptable. The [village](https://wiki.emfcamp.org/2024/wiki/Tekhn%C4%93-cal_Village) has a stash of DK and chunky yarn that anyone can use (note this is *separate* to the stash swap table that's also present in the village, please don't take the blanket supplies away with you!)
 
@@ -31,7 +31,7 @@ You should use a yarn between DK (4mm) and chunky (6mm) weight. Any fibre is acc
 
 ### Catalogue your square online
 
-[The blanket can be viewed online](https://emf-community-blanket-32b26b9ba91e.herokuapp.com/blankets/2/) as well as in real life! Please help us keep it up to date by adding your square to the catalogue.
+[The blanket can be viewed online](https://emf.elichad.net/blankets/2/) as well as in real life! Please help us keep it up to date by adding your square to the catalogue.
 
 Take a photo of your square, and crop it so that:
 
@@ -40,7 +40,7 @@ Take a photo of your square, and crop it so that:
 
 This doesn't need to be perfect, just remove as much background as possible - see the example below.
 
-When you have a photo ready, visit the [Submit a Square](https://emf-community-blanket-32b26b9ba91e.herokuapp.com/squares/add/) page. Upload your image, and optionally enter your name so we know who made the square! You can also give your square a name, and/or add any notes you'd like people to know about it (e.g. why you chose your design, or what the colours represent).
+When you have a photo ready, visit the [Submit a Square](https://emf.elichad.net/squares/add/) page. Upload your image, and optionally enter your name so we know who made the square! You can also give your square a name, and/or add any notes you'd like people to know about it (e.g. why you chose your design, or what the colours represent).
 
 ![A closely cropped image of a crochet square](../../assets/images/cropped_square_image.jpg)
 

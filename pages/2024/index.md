@@ -30,4 +30,4 @@ The blanket lives in [Tekhnē-cal Village](https://wiki.emfcamp.org/2024/wiki/Te
 
 [Patterns]({% link pages/2024/patterns.md %})
 
-[Stitch Reference]({% link pages/2024/stitch_reference.md %})
+[Stitch Reference]({% link pages/stitch_reference.md %})
