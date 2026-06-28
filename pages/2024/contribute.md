@@ -42,7 +42,7 @@ This doesn't need to be perfect, just remove as much background as possible - se
 
 When you have a photo ready, visit the [Submit a Square](https://emf-community-blanket-32b26b9ba91e.herokuapp.com/squares/add/) page. Upload your image, and optionally enter your name so we know who made the square! You can also give your square a name, and/or add any notes you'd like people to know about it (e.g. why you chose your design, or what the colours represent).
 
-![A closely cropped image of a crochet square](../assets/images/cropped_square_image.jpg)
+![A closely cropped image of a crochet square](../../assets/images/cropped_square_image.jpg)
 
 ### Add your contribution to the blanket
 

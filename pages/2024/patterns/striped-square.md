@@ -6,7 +6,7 @@ grand_parent: "2024 Project: EMF Community Blanket"
 
 # Striped Square
 
-![Red and yellow striped square](../../assets/images/red_yellow_striped_square.jpg)
+![Red and yellow striped square](../../../assets/images/red_yellow_striped_square.jpg)
 *Sample by Siobhan*
 
 **Level:** Beginner

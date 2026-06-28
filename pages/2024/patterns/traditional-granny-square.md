@@ -6,7 +6,7 @@ grand_parent: "2024 Project: EMF Community Blanket"
 
 # Traditional Granny Square
 
-![Red and yellow traditional granny square](../../assets/images/red_yellow_traditional_granny_square.jpg)
+![Red and yellow traditional granny square](../../../assets/images/red_yellow_traditional_granny_square.jpg)
 *Sample by Siobhan*
 
 **Level:** Beginner
@@ -28,19 +28,19 @@ This pattern uses [US stitch terminology](https://easycrochet.com/uk-to-us-croch
 
 **Foundation ring.** Work 4 ch and join with a ss to the first ch, forming a ring.
 
-![Foundation ring](../../assets/images/traditional_1.jpg)
+![Foundation ring](../../../assets/images/traditional_1.jpg)
 
 **Round 1.** Work 3 ch, then 2 dc in the ring, then 3 more ch; *then 3 dc in the ring and 3 ch. Repeat from * 2 more times. Join the round with a ss to the top of the first chain. Fasten off and optionally change colour.
 
-![Round 1](../../assets/images/traditional_2.jpg)
+![Round 1](../../../assets/images/traditional_2.jpg)
 
 **Round 2.** Join new yarn in any 3-ch space. Ch 3, work 2 dc, ch 3, work 3 dc in that same space. *Ch 1, work 3 dc, ch 3, work 3 dc all in the next 3-ch space. Repeat from * 2 more times. Ch 1, then join the round with a ss to the top of the first chain. Fasten off and optionally change colour.
 
-![Round 2](../../assets/images/traditional_3.jpg)
+![Round 2](../../../assets/images/traditional_3.jpg)
 
 **Round 3.** Join new yarn in any 3-ch space. Ch 3, work 2 dc, ch 3, work 3 dc in that same space. Ch 1, work 3 dc in the next 1-ch space. *Ch 1, work 3 dc, ch 3, work 3 dc all in the next 3-ch space for the corner. Ch 1, work 3 dc in the next 1-ch space. Repeat from * 2 more times. Ch 1, then join the round with a ss to the top of the first chain. Fasten off and optionally change colour. Check if you are at the necessary size yet, and stop if you are. Each side should look like the image below.
 
-![Round 3](../../assets/images/traditional_4.jpg)
+![Round 3](../../../assets/images/traditional_4.jpg)
 
 **Round 4.** Join new yarn in any 3-ch space. Ch 3, work 2 dc, ch 3, work 3 dc in that same space. (Ch 1, work 3 dc in the next 1-ch space) twice. *Ch 1, work 3 dc, ch 3, work 3 dc all in the next 3-ch space for the corner. (Ch 1, work 3 dc in the next 1-ch space) twice. Repeat from * 2 more times. Ch 1, then join the round with a ss to the top of the first chain. Fasten off.
 

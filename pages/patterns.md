@@ -12,6 +12,6 @@ Beginner-friendly patterns:
 
 ## Stitch references
 
-If you've never crocheted before, there are more robust learning resources available in [Tekhnē-cal Village](https://wiki.emfcamp.org/2024/wiki/Tekhn%C4%93-cal_Village) and on YouTube (search 'learn to crochet').
+If you've never crocheted before, there are more robust learning resources available in [Tekhnē-cal Village][tekhne-cal] and on YouTube (search 'learn to crochet').
 
 If you just need a reminder of how to form the basic stitches, see [Stitch Reference](stitch_reference.md).

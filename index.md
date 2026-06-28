@@ -7,11 +7,11 @@ nav_order: 1
 
 We're building a solar system with planets created by EMF attendees. Come and make a contribution!
 
-**[How to Contribute to the Solar System]({% link pages/2024/contribute.md %})**
+**[How to Contribute to the Solar System][contribute]**
 
-[Submit a completed planet](TODO) (link not yet working - check back soon!)
+[Submit a completed planet][submit-planet] (link not yet working - check back soon!)
 
-[View the Blanket online](TODO) (link not yet working - check back soon!)
+[View the Solar System online][view-system] (link not yet working - check back soon!)
 
 [Follow on Mastodon](https://mastodon.me.uk/@emfblanket)
 
@@ -19,15 +19,15 @@ We're building a solar system with planets created by EMF attendees. Come and ma
 
 ## Location
 
-The solar system lives in [LOCATION TBC].
+The solar system lives in [LOCATION TBC][location].
 
-**If you're dropping off a planet, please [submit it to the website](TODO) before hanging it up** - see the [instructions]({% link pages/2024/contribute.md %}#add-your-planet-to-the-solar-system) for more info.
+**If you're dropping off a planet, please [submit it to the website][submit-planet] before hanging it up** - see the [instructions][contribute] for more info.
 
 ## Making your planet
 
-See [Instructions for making your planet]({% link pages/2024/contribute.md %}).
+See [Instructions for making your planet][contribute].
 
-There are many planet-making supplies and plenty of space for crafting in [Tekhnē-cal Village](https://wiki.emfcamp.org/2024/wiki/Tekhn%C4%93-cal_Village) (northwest of Stage A, [see on map](https://map.emfcamp.org/#17/52.040506/-2.378641)). Anyone is welcome to drop in and use the supplies and/or space to make a planet. See the [list of village supplies]({% link pages/supplies.md %}).
+There are many planet-making supplies and plenty of space for crafting in [Tekhnē-cal Village][tekhne-cal] (northwest of Stage A, [see on map][map-village]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. See the [list of village supplies]({% link pages/supplies.md %}).
 
 The villages are focused on yarn and fabric crafts, but you can make a planet using whatever techniques you like. Get creative!
 
@@ -38,3 +38,5 @@ The villages are focused on yarn and fabric crafts, but you can make a planet us
 [Patterns]({% link pages/patterns.md %})
 
 [Stitch Reference]({% link pages/stitch_reference.md %})
+
+{% include references.liquid %}
