@@ -1,5 +1,5 @@
 ---
-title: Home
+title: EMF Solar System
 nav_order: 1
 ---
 
