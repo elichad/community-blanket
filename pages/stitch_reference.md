@@ -77,3 +77,5 @@ Images from Sarah Maker
 ## Whip Stitch (for joining squares)
 
 ![](../assets/images/whip_stitch.jpg)
+
+{% include references.liquid %}

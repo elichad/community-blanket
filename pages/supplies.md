@@ -19,3 +19,5 @@ Non-exhaustive list of supplies available in our villages. Things that are avail
 
 * tablet weaving looms
 * fabric
+
+{% include references.liquid %}

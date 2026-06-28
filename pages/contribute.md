@@ -100,3 +100,5 @@ If the typical crochet/knitting techniques are difficult for you, ask a villager
 You should use a yarn between DK (4mm) and chunky (6mm) weight. Any fibre is acceptable. The [village][tekhne-cal] has a stash of DK and chunky yarn that anyone can use (note this is *separate* to the stash swap table that's also present in the village, please don't take the blanket supplies away with you!)
 
 \* <small>other forms of crafted square may be accepted as long as they can be sewn into the blanket with yarn and a [blunt tapestry needle](https://stitchedmodern.com/collections/tools-notions/products/plastic-tapestry-needle?variant=31337407676529).</small>
+
+{% include references.liquid %}

@@ -24,7 +24,7 @@ The blanket lives in [Tekhnē-cal Village](https://wiki.emfcamp.org/2024/wiki/Te
 
 **If you're dropping off squares, please make time to sew them into the blanket** - see the [instructions]({% link pages/2024/contribute.md %}#add-your-contribution-to-the-blanket).
 
-![Village on map. Northwest of Stage A.](../../assets/images/tekhne-cal-loc.png)
+![Village on map. Northwest of Stage A.](../../assets/images/tekhne-cal-loc-2024.png)
 
 ## Resources
 

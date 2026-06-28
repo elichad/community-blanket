@@ -27,11 +27,11 @@ The solar system lives in [LOCATION TBC][location].
 
 See [Instructions for making your planet][contribute].
 
-There are many planet-making supplies and plenty of space for crafting in [Tekhnē-cal Village][tekhne-cal] (northwest of Stage A, [see on map][map-village]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. See the [list of village supplies]({% link pages/supplies.md %}).
+There are many planet-making supplies and plenty of space for crafting in [Tekhnē-cal Village][tekhne-cal] (southwest of Stage C, [see on map][map-tekhne-cal]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. See the [list of village supplies]({% link pages/supplies.md %}).
 
 The villages are focused on yarn and fabric crafts, but you can make a planet using whatever techniques you like. Get creative!
 
-![Village on map. Northwest of Stage A.](assets/images/tekhne-cal-loc.png)
+![Village on map. Northwest of Stage A.](assets/images/tekhne-cal-loc-2026.png)
 
 ## Resources
 
