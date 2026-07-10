@@ -15,7 +15,7 @@ Anyone can contribute, there is no need to have prior crafting experience.
 
 ### Create a planet
 
-Each planet should be between **5-30 cm diameter** and **light and soft enough not to hurt you if it fell on your head**.
+Each planet should be less than **30 cm diameter** and **light and soft enough not to hurt you if it fell on your head**.
 
 Aside from these constraints, the design and colour(s) of the planet are up to you! It can be as simple or as complicated as you like. You can also use techniques like surface crochet and embroidery to enhance your planet. Check out [Patterns]({% link pages/patterns.md %}) for inspiration, or search the internet for more ideas.
 
