@@ -2,12 +2,12 @@ title: EMF Solar System
 description: A solar system created by attendees of Electromagnetic Field 2026.
 
 theme: just-the-docs
-url: https://elichad.net/emf/
+url: https://elichad.net/emf-docs/
 aux_links:
-  GitHub: https://github.com/elichad/community-blanket/
+  GitHub: https://github.com/elichad/emf-docs/
 
 url: https://elichad.net
-baseurl: /emf
+baseurl: /emf-docs
 
 defaults:
   - scope:
