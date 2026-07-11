@@ -27,7 +27,7 @@ The solar system hangs from the roof of the [Arts tent][map-location].
 
 See [Instructions for making your planet][contribute].
 
-There are planet-making supplies and crafting space in [Tekhnē-cal Village][tekhne-cal] (northwest of Stage C, [see on map][map-tekhne-cal]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. The sister village [Threadz 'n' Webz][threadz] is close by and may have additional supplies - see the [list of village supplies]({% link pages/supplies.md %}).
+There are planet-making supplies and crafting space in [Tekhnē-cal Village][tekhne-cal] (northwest of Stage C, [see on map][map-tekhne-cal]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. The sister village [Threadz 'n' Webz][threadz-n-webz] is close by and may have additional supplies - see the [list of village supplies]({% link pages/supplies.md %}).
 
 The villages are focused on yarn and fabric crafts, but you can make a planet using whatever techniques you like. Get creative!
 
