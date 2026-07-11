@@ -1,6 +1,6 @@
 ---
 title: List of Village Supplies
-nav_order: 10
+nav_order: 35
 ---
 
 # List of Village Supplies

@@ -1,25 +1,25 @@
 ---
-title: EMF Solar System
-nav_order: 1
+title: EMF Community Solar System
+nav_order: 10
 ---
 
-# EMF Solar System
+# EMF Community Solar System
 
 We're building a solar system with planets created by EMF attendees. Come and make a contribution!
+
+**[View the Solar System online][view-system]** (link not yet working - check back soon!)
 
 **[How to Contribute to the Solar System][contribute]**
 
 [Submit a completed planet][submit-planet] (link not yet working - check back soon!)
 
-[View the Solar System online][view-system] (link not yet working - check back soon!)
-
-[Follow on Mastodon](https://mastodon.me.uk/@emfblanket)
+[Follow on Mastodon][mastodon]
 
 ![Blanket maker table with assorted yarn and a few finished squares](assets/images/IMG_20240531_192929435.jpg)
 
 ## Location
 
-The solar system lives in [LOCATION TBC][location].
+The solar system hangs from the roof of the [Arts tent][map-location].
 
 **If you're dropping off a planet, please [submit it to the website][submit-planet] before hanging it up** - see the [instructions][contribute] for more info.
 
@@ -27,7 +27,7 @@ The solar system lives in [LOCATION TBC][location].
 
 See [Instructions for making your planet][contribute].
 
-There are many planet-making supplies and plenty of space for crafting in [Tekhnē-cal Village][tekhne-cal] (southwest of Stage C, [see on map][map-tekhne-cal]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. See the [list of village supplies]({% link pages/supplies.md %}).
+There are planet-making supplies and crafting space in [Tekhnē-cal Village][tekhne-cal] (northwest of Stage C, [see on map][map-tekhne-cal]). Anyone is welcome to drop in and use the supplies and/or space to make a planet. The sister village [Threadz 'n' Webz][threadz] is close by and may have additional supplies - see the [list of village supplies]({% link pages/supplies.md %}).
 
 The villages are focused on yarn and fabric crafts, but you can make a planet using whatever techniques you like. Get creative!
 
@@ -35,8 +35,8 @@ The villages are focused on yarn and fabric crafts, but you can make a planet us
 
 ## Resources
 
-[Patterns]({% link pages/patterns.md %})
+[Crafting Patterns]({% link pages/patterns.md %})
 
-[Stitch Reference]({% link pages/stitch_reference.md %})
+[Crochet Stitch Reference]({% link pages/stitch_reference.md %})
 
 {% include references.liquid %}

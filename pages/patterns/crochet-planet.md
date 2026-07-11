@@ -83,7 +83,7 @@ Cut your yarn, leaving a long tail. Use a blunt tapestry needle to sew through t
 
 ## Stage 4: Add your planet to the solar system!
 
-[Submit your planet to the website][submit-planet], then [visit the installation][location] to hang it in the space.
+[Submit your planet to the website][submit-planet], then [visit the Arts tent][map-location] to hang it in the space.
 
 This step is optional – it's also completely fine to take your planet home with you instead.
 

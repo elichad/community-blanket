@@ -1,9 +1,9 @@
 ---
-title: Stitch Reference
-nav_order: 5
+title: Crochet Stitch Reference
+nav_order: 40
 ---
 
-# Stitch Reference
+# Crochet Stitch Reference
 
 ## Holding Hook
 

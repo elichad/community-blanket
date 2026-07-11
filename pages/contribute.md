@@ -1,6 +1,6 @@
 ---
 title: Contribute to the Solar System
-nav_order: 2
+nav_order: 20
 ---
 
 # Contribute to the Solar System
@@ -9,7 +9,7 @@ nav_order: 2
 
 Anyone can contribute, there is no need to have prior crafting experience.
 
-[Tekhnē-cal Village][tekhne-cal] has many planet-making supplies and plenty of space for crafting; there will be numerous drop-in workshops throughout the weekend, as well as instructions available for self-guided crochet learning. Feel free to ask anyone you see there for help too!
+[Tekhnē-cal Village][tekhne-cal] has planet-making supplies and crafting space available; there will be numerous drop-in workshops throughout the weekend for different crafts, as well as instructions available for self-guided crochet learning. Feel free to ask anyone you see there for help too!
 
 ## How do I add to the Solar System?
 
@@ -17,7 +17,7 @@ Anyone can contribute, there is no need to have prior crafting experience.
 
 Each planet should be **less than 30 cm diameter** and **light and soft enough not to hurt you if it fell on your head**.
 
-Aside from these constraints, the design and colour(s) of the planet are up to you! It can be as simple or as complicated as you like. You can also use techniques like surface crochet and embroidery to enhance your planet. Check out [Patterns]({% link pages/patterns.md %}) for inspiration, or search the internet for more ideas.
+Aside from these constraints, the design and colour(s) of the planet are up to you! It can be as simple or as complicated as you like, and you can use any technique to make it. Check out [Crafting Patterns]({% link pages/patterns.md %}) for inspiration, or search the internet for more ideas.
 
 ### Catalogue your planet online
 
@@ -26,21 +26,18 @@ Aside from these constraints, the design and colour(s) of the planet are up to y
 Take a photo of your planet, and crop it so that:
 
 * the image is square (aspect ratio 1:1)
-* the edges of the image are cropped as close as possible to the edges of the planet, without cutting off part of the planet
+* the edges of the image are cropped as close as possible to the planet without cutting parts of it off.
 
-This doesn't need to be perfect, just remove as much background as possible - see the example below.
-
-When you have a photo ready, visit the [Submit a Planet][submit-planet] page. Upload your image, and optionally enter your name so we know who made the square! You can also give your square a name, and/or add any notes you'd like people to know about it (e.g. why you chose your design, what the colours represent, or what the planet's weather/inhabitants are like).
+When you have a photo ready, visit the [Submit a Planet][submit-planet] page. Upload your image, and fill out the information. You'll be asked to come up with a name for your planet as well as a fun fact about it. You can also add your name (or a pseudonym) if you are happy to be publicly listed as the "discoverer" of the planet.
 
 ![A closely cropped image of a crochet square](../assets/images/cropped_square_image.jpg)
 
 ### Add your contribution to the Solar System
 
-First, make sure you have added your square to the [online catalogue](#catalogue-your-planet-online), so we can keep the online Solar System in sync with the real one!
+Bring your planet to the Arts tent and hang it in the space. Make sure to add a physical tag to your planet with its name to help other people look it up on the website!
 
-When you've done that, bring your planet to [LOCATION TBC][location].
+If you didn't already, make sure you have added your square to the [online catalogue](#catalogue-your-planet-online), so we can keep the online Solar System in sync with the real one.
 
-Guides there (either human or written) will show you how to hang your planet in the space. Make sure to add a physical tag to your planet with its name to help other people look it up on the website!
 
 ### Share it online!
 
@@ -85,20 +82,16 @@ There will not be people present at every hour of the day, but there is likely t
 
 #### Advance contributions
 
-You are welcome to make a planet (or planets) ahead of EMF and bring it to the village after you arrive. If you can't make it to EMF, you can post squares to Eli - ask Eli directly for his address.
+You are welcome to make a planet (or planets) ahead of EMF and bring it to the Arts tent after you arrive.
 
 ## Crochet/knitting contributions
 
-[Tekhnē-cal Village][tekhne-cal] will host crochet and knitting drop-in workshops throughout the weekend, and instructions will be available for self-guided crochet learning - drop in any time!
+[Tekhnē-cal Village][tekhne-cal] will have instructions available for self-guided crochet learning - drop in any time! The [village][tekhne-cal] has a stash of DK and chunky yarn that anyone can use (note this is *separate* to the stash swap table that's also present in the village, please don't take the blanket supplies away with you!)
 
 If the typical crochet/knitting techniques are difficult for you, ask a villager for help. We can offer advice, adaptive tools, and alternative techniques, such as:
   * different ways to tension your yarn or hold your hook/needles
   * thick foam handles to make holding a crochet hook easier
   * knitting looms
   * finger knitting
-
-You should use a yarn between DK (4mm) and chunky (6mm) weight. Any fibre is acceptable. The [village][tekhne-cal] has a stash of DK and chunky yarn that anyone can use (note this is *separate* to the stash swap table that's also present in the village, please don't take the blanket supplies away with you!)
-
-\* <small>other forms of crafted square may be accepted as long as they can be sewn into the blanket with yarn and a [blunt tapestry needle](https://stitchedmodern.com/collections/tools-notions/products/plastic-tapestry-needle?variant=31337407676529).</small>
 
 {% include references.liquid %}
