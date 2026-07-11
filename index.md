@@ -39,4 +39,15 @@ The villages are focused on yarn and fabric crafts, but you can make a planet us
 
 [Crochet Stitch Reference]({% link pages/stitch_reference.md %})
 
+## Acknowledgements
+
+The following people helped make this project possible:
+
+* Project organiser: Eli
+* Workshop hosts: Eli, Emily, Case
+* Crafting space & supplies: Emily, Alex, Frankie, & co-villagers
+* Installation planning and setup support: EMF Installations Team & build-up crew
+* Workshop planning and support: EMF Workshops Team & Installations Team
+* Planets: EMF Community
+
 {% include references.liquid %}
