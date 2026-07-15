@@ -9,7 +9,7 @@ parent: Crafting Patterns
 
 **Yarn weight:** Chunky (6.0mm hook) recommended, but any yarn can be used with an appropriately sized hook.
 
-**Source:** [Eli][eli]'s brain, cross-referenced with <https://www.supergurumi.com/crochet-shapes-crochet-balls-and-spheres>. Step-by-step pictures by Eli will be added soon.
+**Source:** [Eli][eli]'s brain, cross-referenced with <https://www.supergurumi.com/crochet-shapes-crochet-balls-and-spheres>. Step-by-step pictures by Eli.
 
 ## Stitch terminology
 
@@ -64,6 +64,7 @@ Make a note of how many rounds you did (N) before moving on to the next stage.
 
 _Optional:_ change colour in the last stitch of this stage.
 
+<div style="break-after:page"></div>
 
 ## Stage 2: the middle bit
 
@@ -76,6 +77,8 @@ _Optional:_ change colour in the last stitch of this stage.
 ![Round 1, the piece becomes slightly domed](../../assets/images/crochet-planet/2_1.jpg)
 ![Round 3, the piece is now bowl-shaped](../../assets/images/crochet-planet/2_3.jpg)
 ![Round 6, the piece is now a hemisphere](../../assets/images/crochet-planet/2_6.jpg)
+
+<div style="break-after:page"></div>
 
 ## Stage 3: Decreasing
 
@@ -104,6 +107,8 @@ Before completing the final round, stuff the ball. There is stuffing available a
 Cut your yarn, leaving a long tail. Use a blunt tapestry needle to sew through the top of the final stitches, then pull the opening closed. You can weave in the end of the yarn or use it for hanging the planet.
 
 ![Round 1, top-down view of the closed top of the planet](../../assets/images/crochet-planet/3_4.jpg)
+
+<div style="break-after:page"></div>
 
 ## Stage 4: Add your planet to the solar system! (optional)
 
